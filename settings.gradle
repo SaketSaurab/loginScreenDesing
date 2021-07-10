@@ -1,0 +1,2 @@
+rootProject.name = "MasaiLogin"
+include ':app'
